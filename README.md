@@ -4,7 +4,7 @@
 
 - <b> Microsoft Windows Defender and Firewall (IBM) </b>
   - [Windows Defender Antivirus (Security Virus, Threat Protection & Updates)](https://github.com/Druidia40/MicrosoftWindowsDefenderLab)
-  - [Windows Defender Firewall Advanced (Configuring Firewall Rules with Advanced Security)](https://github.com/Druidia40/Emanuel)
+  - [Windows Defender Firewall Advanced (Configuring Firewall Rules with Advanced Security)](https://github.com/Druidia40/Windows_Defender_Firewall/blob/main/README.md)
 - <b>Python</b>
   - [Update a file through a Python Algorithm](PythonAlgorithm.docx)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
