@@ -6,7 +6,7 @@
   - [Windows Defender Antivirus (Security Virus, Threat Protection & Updates)](https://github.com/Druidia40/MicrosoftWindowsDefenderLab)
   - [Windows Defender Firewall Advanced (Configuring Firewall Rules with Advanced Security)](https://github.com/Druidia40/Windows_Defender_Firewall/blob/main/README.md)
 - <b>Python</b>
-  - [Update a file through a Python Algorithm](PythonAlgorithm.docx)
+  - [Update a file through a Python Algorithm](https://github.com/Druidia40/Python)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
