@@ -15,7 +15,7 @@
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Linux</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://imgur.com/wUhT6XU)
+  - [File permissions in Linux](https://github.com/Druidia40/Linux)
 
 <h2> Professional Certifications</h2>
 
