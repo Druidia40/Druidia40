@@ -23,7 +23,7 @@
 - [Google Cybersecurity Certificate (Coursera)](https://coursera.org/verify/professional-cert/TJ9Z67C52KXP)
 - [CompTIA Security+](https://www.credly.com/badges/20624ad9-4407-456b-bb12-18110caf5c95)
 - [Microsoft Windows Defender and Firewall](https://www.coursera.org/account/accomplishments/certificate/K9K4FLYMHSBV)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Analyze Network Traffic with TCPDump](https://www.coursera.org/account/accomplishments/verify/DE44T7YRD2RM)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
