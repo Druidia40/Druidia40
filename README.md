@@ -27,4 +27,5 @@
 
 - [Instagram](https://www.instagram.com/MannyConcepcion/)
 - [LinkedIn](https://www.linkedin.com/in/emanuel-concepcion-a4948a90/)
+- [X, formerly, Twitter](https://twitter.com/M4nnyConcepcion)
 
