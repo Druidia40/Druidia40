@@ -25,7 +25,7 @@
 <h2>Connect with me:</h2>
 <b> Social Media </b>
 
-- [Instagram](https://www.instagram.com/MannyConcepcion/)
+- [Instagram](https://www.instagram.com/druidia22/)
 - [LinkedIn](https://www.linkedin.com/in/emanuel-concepcion-a4948a90/)
 - [X, formerly, Twitter](https://twitter.com/M4nnyConcepcion)
 
