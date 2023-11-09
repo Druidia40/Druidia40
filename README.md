@@ -10,7 +10,7 @@
   - [Apply filters to SQL queries](https://github.com/Druidia40/SQL)
   - [File permissions in Linux](https://github.com/Druidia40/Linux)
   
-- <b> Capturing Data Packets with TCPDump </b>
+- <b> Capturing Data Packets (TCPDump and Wireshark) </b>
   - [Create a shell script and explore filtering options](https://github.com/Druidia40/TCPDump-Shell-Script)
   - [Create and read dump files](https://github.com/Druidia40/TCPDump-.pcap-files)
 
