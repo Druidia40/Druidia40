@@ -1,6 +1,6 @@
 <h1>Hi, I'm Manny! <br/><a href="https://github.com/Druidia40">National Sales Executive</a>, <a href="https://www.linkedin.com/in/emanuel-concepcion-a4948a90/">Cybersecurity Professional</a> </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨🏽‍💻 Cybersecurity Projects:</h2>
 
 - <b> Microsoft Windows Defender and Firewall (IBM) </b>
   - [Windows Defender Antivirus (Security Virus, Threat Protection & Updates)](https://github.com/Druidia40/MicrosoftWindowsDefenderLab)
