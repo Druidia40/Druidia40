@@ -9,6 +9,11 @@
   - [Update a file through a Python Algorithm](https://github.com/Druidia40/Python)
   - [Apply filters to SQL queries](https://github.com/Druidia40/SQL)
   - [File permissions in Linux](https://github.com/Druidia40/Linux)
+  
+- <b> Capturing Data Packets with TCPDump </b>
+  - [Create a shell script and explore filtering options]()
+  - [Create and read dump files]()
+  - [Create a sequence of dump files with size and time limits]()
 
 <h2> Professional Certifications</h2>
 
@@ -21,6 +26,6 @@
 <h2>Connect with me:</h2>
 <b> Social Media </b>
 
-- [instagram](https://www.instagram.com/MannyConcepcion/)
+- [Instagram](https://www.instagram.com/MannyConcepcion/)
 - [LinkedIn](https://www.linkedin.com/in/emanuel-concepcion-a4948a90/)
 
