@@ -13,7 +13,6 @@
 - <b> Capturing Data Packets with TCPDump </b>
   - [Create a shell script and explore filtering options](https://github.com/Druidia40/TCPDump-Shell-Script)
   - [Create and read dump files](https://github.com/Druidia40/TCPDump-.pcap-files)
-  - [Create a sequence of dump files with size and time limits]()
 
 <h2> Professional Certifications</h2>
 
