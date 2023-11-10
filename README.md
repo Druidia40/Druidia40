@@ -1,4 +1,4 @@
-<h1>Hi, I'm Manny! <br/><a href="https://github.com/Druidia40">National Sales Executive</a>, <a href="https://www.linkedin.com/in/emanuel-concepcion-a4948a90/">Cybersecurity Professional</a> </h1>
+<h1>Hi, I'm Emanuel Concepcion! <br/><a href="https://github.com/Druidia40">National Sales Executive</a>, <a href="https://www.linkedin.com/in/emanuel-concepcion-a4948a90/">Cybersecurity Professional</a> </h1>
 
 <h2>👨🏽‍💻 Cybersecurity Projects:</h2>
 
@@ -25,7 +25,6 @@
 <h2>Connect with me:</h2>
 <b> Social Media </b>
 
-- [Instagram](https://www.instagram.com/druidia22/)
 - [LinkedIn](https://www.linkedin.com/in/emanuel-concepcion-a4948a90/)
 - [X, formerly, Twitter](https://twitter.com/M4nnyConcepcion)
 
